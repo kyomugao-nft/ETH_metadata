@@ -1,0 +1,13 @@
+{
+  "tokenId": 10,
+  "name": "Kyomugao #219",
+  "description": "This is the EXCHANGE TICKET for Kyomugao #219",
+  "image_url": "ipfs://QmUw5CNjfoSXKAm8LwibMrWWTnNvQEjq7UxjQEP9411YCo/219.png",
+  "attributes": {
+    "hair_color": "purple",
+    "bangs": "sotohane",
+    "earrings": "btc",
+    "clothes": "kuromokomoko",
+    "hair_accessory": "mannbou"
+  }
+}
